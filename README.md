@@ -1,5 +1,7 @@
 # my_portfolio
 
+이 프로젝트는 대학교 대체과제로 1인 개발한 웹사이트입니다.
+
 ## Project setup
 ```
 npm install
@@ -22,3 +24,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
