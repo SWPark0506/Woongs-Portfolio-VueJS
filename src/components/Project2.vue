@@ -67,7 +67,7 @@
                 <div>
                   <b style="font-weight: 850">✔ Frontend</b>
                 </div>
-                <div>Vue, Vue Router, VueX, CSS</div>
+                <div>Vue, Vue Router, VueX</div>
               </div>
               <br />
 
